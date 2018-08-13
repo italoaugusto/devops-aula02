@@ -1,4 +1,5 @@
 # devops-aula02
 #Morgan Freeman
-#Rowan Atckinson
+#Marinson Ford
 #Nicolas Cage
+#Brad Pitt
